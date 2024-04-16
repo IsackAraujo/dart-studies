@@ -2,9 +2,9 @@ import 'Account.dart';
 
 class SavingsAccount extends Account{
 
-  SavingsAccount(super.accountNumber, super.balance, this.savings);
-
   double savings;
+
+  SavingsAccount(super.accountNumber, super.balance, this.savings);
 
   @override
   deposit(double value) {
@@ -25,5 +25,11 @@ class SavingsAccount extends Account{
 
     }
 
+  }
+
+  @override
+  void test() {
+    // TODO: implement test
+    super.test();
   }
 }
