@@ -37,7 +37,7 @@ final int code = 34;
 
   // code = 3; Impossible to run, because code is a Const variable that       are already defined
 
-final String birth = '03-04-2004';
+const String birth = '03-04-2004';
 
   // birth = '20-03-1982'; Impossible to run, because birth is a Final        variable that are already defined
 
