@@ -1,4 +1,4 @@
-/* Creating a method for descript a Map, using a Function as a parameters
+/* Creating a method for decrypt a Map, using a Function as a parameters
     The method will invert the map and put the new value as a parameter to the fuction that can be specified with lambda in the main
 */
 
