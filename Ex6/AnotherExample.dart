@@ -10,12 +10,12 @@ class Person {
 
   printPerson(){
 
-    (this.single)?
+    (this.single) ?
     print("My name is ${name} im single and i have ${age} years old.")
     : 
     print("My name is ${name} im not single and i have ${age} years old.");
 
-      }
+    }
 }
 
 class Car {
