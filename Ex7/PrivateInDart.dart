@@ -1,7 +1,6 @@
 class Person{
   String? name;
   int? _id;
-
 }
 
 main () {
