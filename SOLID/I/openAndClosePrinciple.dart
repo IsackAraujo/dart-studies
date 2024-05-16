@@ -1,5 +1,5 @@
 /// This principle say that a class can only be
-/// extended, and not 
+/// extended, and not implemented in another class
 /// 
 /// Here we have a example of a class Payment, that 
 /// have two functions, payCredit() and payDebit(),
