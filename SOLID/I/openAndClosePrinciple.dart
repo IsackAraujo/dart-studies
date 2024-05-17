@@ -8,11 +8,11 @@
 class Payment{
 
   void payCredit(){
-    print("Paying Debit...");
+    print("Paying Debit....");
   }
 
   void payDebit(){
-    print("Paying Debit...");
+    print("Paying Debit....");
   }
 
 } 
