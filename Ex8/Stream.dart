@@ -11,6 +11,6 @@ void main() {
   ).take(10);
 
   streamEstudos.listen((valor) {
-    print(valor + 1);
+    print(valor + 4);
   });
 }
